@@ -12,11 +12,11 @@ I'm Srijan Anand Gupta aka JellyFishJuggler.
 
 ### Frontend-Developer
 
--HTML
--CSS
--BOOTSTRAP CSS
--JAVASCRIPT
--Tailwind CSS
+-  HTML
+-  CSS
+-  BOOTSTRAP CSS
+-  JAVASCRIPT
+-  Tailwind CSS
 
 ### Game Developer && 3D Designer
 -Godot
