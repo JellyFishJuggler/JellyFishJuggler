@@ -6,7 +6,7 @@ I'm Srijan Anand Gupta aka JellyFishJuggler.
 
 - 🌐 [Portfolio](https://linktr.ee/jellyfishjuggler?utm_source=linktree_admin_share)
 - 📧 Email: guptasrijan85@email.com
-- 📱 LinkedIn: [Srijan Gupta](https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/srijan-gupta-a5031a28b/)
+- 📱 LinkedIn: [Srijan Gupta](https://www.linkedin.com/in/srijan-gupta-a5031a28b)
 
 ## Skills
 
