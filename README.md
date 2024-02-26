@@ -23,6 +23,10 @@ I'm Srijan Anand Gupta aka JellyFishJuggler.
 -  Unity 3D
 -  Blender 3D
 
+### Languages
+-  Python
+-  C++
+
 <!--
 ## GitHub Stats
 
