@@ -7,7 +7,7 @@
 
   <br>
 
-- 🌱 I’m  currently learning Data Structure & Algorithms  
+<div align="center">🌱 Currently learning Data Structure & Algorithms  </div>
   
 
 <br/>  
