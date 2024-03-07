@@ -7,10 +7,7 @@
 
   <br>
 
-- 🌱 I’m currently currently learning Data Structure & Algorithms  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+- 🌱 I’m  currently learning Data Structure & Algorithms  
   
 
 <br/>  
@@ -99,4 +96,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
