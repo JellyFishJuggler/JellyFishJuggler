@@ -9,7 +9,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://www.freepik.com/free-vector/hand-drawn-nft-style-ape-illustration_30875849.htm#query=nft&position=48&from_view=keyword&track=sph&uuid=cb383e0e-9e89-4a1d-ab83-f8cab46b9742"  />
+
 
 ###
 
@@ -45,7 +46,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
