@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Srijan Anand Gupta, a Game Developer 👨‍💻 </div>  
+### <div align="center">I'm Srijan Anand Gupta </div>  
 
   <br>
 
