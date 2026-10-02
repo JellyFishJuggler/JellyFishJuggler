@@ -8,9 +8,9 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Computer Science student (Data Science specialization) who loves working at the intersection of **data and design** — analyzing numbers, building ML models from first principles, and shaping them into interfaces people actually enjoy using.
+I'm a final-year Computer Science student (Data Science specialization) who loves working at the intersection of **data and design**: building ML models from first principles, evaluating them rigorously, and shipping them as interfaces people actually enjoy using.
 
-- 🔭 Currently building ML models from the math up — regression, trees, ensembles, NLP — and shipping them as deployed apps
+- 🔭 Currently building end-to-end ML systems: fraud detection on imbalanced data, RAG/LLM tools, and classical algorithms written from scratch
 - 🎯 Preparing for GATE DA, targeting research-oriented MS/M.Tech programs
 - 🎨 Freelancing in UI/UX design on the side
 - 🌱 Exploring open source contributions
@@ -19,7 +19,13 @@ I'm a Computer Science student (Data Science specialization) who loves working a
 ## 🛠️ Tech Stack
 
 **Data Analysis & ML**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-189AB4?style=for-the-badge) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge)
+
+**AI / LLM**  
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**Data & BI**  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Apache Superset](https://img.shields.io/badge/-Apache%20Superset-20A6C9?style=for-the-badge&logo=apache&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Design**  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/-Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white) ![Blender](https://img.shields.io/badge/-Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
@@ -37,11 +43,8 @@ I'm a Computer Science student (Data Science specialization) who loves working a
 
 | Project | Description | Stack |
 |---|---|---|
-| **[AQUIS](https://github.com/JellyFishJuggler/AQUIS)** | Groundwater analytics platform with a co-authored, published research paper — role-based dashboards for researchers, policymakers, and citizens | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **[diabetes-mlr](https://github.com/JellyFishJuggler/diabetes-mlr)** | Multiple Linear Regression from scratch (Normal Equation) on real health data, validated against scikit-learn | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| **[maternal-health-risk--rf](https://github.com/JellyFishJuggler/maternal-health-risk--rf)** | Random Forest health-risk classifier, deployed as an interactive Streamlit app | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| **[spam-mail-detector](https://github.com/JellyFishJuggler/spam-mail-detector)** | Naive Bayes spam/ham classifier (NLP), deployed as an interactive Streamlit app | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| **[growth_analytics-dashboard](https://github.com/JellyFishJuggler/growth_analytics-dashboard)** | Full-stack BI dashboard for retail sales — SQL, Python, and Apache Superset | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| **[RepoReader](REPOREADER_REPO_URL)** | RAG tool that answers questions about any GitHub repo, grounded in retrieved code/docs with source attribution; cross-encoder reranking moved a key chunk from rank #11 → #1 | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square) ![HF](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
+| **[UPI Fraud Risk Manager](UPI_FRAUD_REPO_URL)** | Fraud detection on 6.3M PaySim transactions: 5-fold stratified CV with out-of-fold threshold selection, **99.33% recall / 88.65% precision** on held-out test, business-cost sensitivity analysis, deployed on Streamlit | ![XGBoost](https://img.shields.io/badge/-XGBoost-189AB4?style=flat-square) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
 
 ### 🤝 Let's Connect
 
